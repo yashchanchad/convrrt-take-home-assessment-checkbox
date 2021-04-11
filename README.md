@@ -1,9 +1,15 @@
-# sample-project
+# Vue.js + Storybook.js Project
 
 ## Project setup
 ```
 npm install
 ```
+
+### Run Storybook.
+```
+npm run storybook
+```
+
 
 ### Compiles and hot-reloads for development
 ```
