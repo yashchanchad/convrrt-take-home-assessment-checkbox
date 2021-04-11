@@ -1,0 +1,42 @@
+.storybook-checkbox {
+    font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    border: 0;
+    border-radius: 3em;
+    color: #000;
+    background-color: #fd1e1e;
+}
+
+
+/* .storybook-checkbox--primary {
+    color: white;
+    background-color: #fd1e1e;
+} */
+
+
+/* .storybook-checkbox--secondary {
+    color: #333;
+    background-color: transparent;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
+} */
+
+.storybook-checkbox--focus {
+    /* height: 15px; */
+    /* font-size: larger; */
+    /* background-color: aqua; */
+    background: #ffffcc;
+    /* outline: 5px solid blue; */
+}
+
+.storybook-checkbox--focusViaTab {
+    /* height: 200px; */
+    /* font-size: medium; */
+    background-color: black;
+}
+
+
+/* 
+.storybook-checkbox--large {
+    font-size: 16px;
+    padding: 12px 24px;
+} */
